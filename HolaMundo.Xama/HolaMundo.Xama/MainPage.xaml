@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HolaMundo.Xama.MainPage" >
+    <StackLayout Padding="10">
+        <Label Text="Andreslon" FontSize="18"  HorizontalOptions="Center" />
+        <Entry x:Name="MyText" HorizontalOptions="FillAndExpand"></Entry>
+        <Button Text="Imprimir" HorizontalOptions="Center" Clicked="OnButtonClicked" />
+        <Label x:Name="Result" Text="Resultado" HorizontalOptions="Center" />
+    </StackLayout>
+</ContentPage>

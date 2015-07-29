@@ -1,0 +1,9 @@
+D:\Repos\HolaMundo.Xama\HolaMundo.Xama\HolaMundo.Xama\bin\Debug\HolaMundo.Xama.dll
+D:\Repos\HolaMundo.Xama\HolaMundo.Xama\HolaMundo.Xama\bin\Debug\HolaMundo.Xama.pdb
+D:\Repos\HolaMundo.Xama\HolaMundo.Xama\HolaMundo.Xama\bin\Debug\Xamarin.Forms.Core.dll
+D:\Repos\HolaMundo.Xama\HolaMundo.Xama\HolaMundo.Xama\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Repos\HolaMundo.Xama\HolaMundo.Xama\HolaMundo.Xama\bin\Debug\Xamarin.Forms.Core.xml
+D:\Repos\HolaMundo.Xama\HolaMundo.Xama\HolaMundo.Xama\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Repos\HolaMundo.Xama\HolaMundo.Xama\HolaMundo.Xama\obj\Debug\MainPage.xaml.g.cs
+D:\Repos\HolaMundo.Xama\HolaMundo.Xama\HolaMundo.Xama\obj\Debug\HolaMundo.Xama.dll
+D:\Repos\HolaMundo.Xama\HolaMundo.Xama\HolaMundo.Xama\obj\Debug\HolaMundo.Xama.pdb
